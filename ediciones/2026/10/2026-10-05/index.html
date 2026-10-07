@@ -47,11 +47,14 @@
     @media(max-width:860px){.hero{grid-template-columns:1fr}.hero-art{min-height:260px}.lead{grid-template-columns:1fr;gap:12px}.metrics{grid-template-columns:1fr}.metric{min-height:140px}.contents-grid{grid-template-columns:1fr}.report-section{grid-template-columns:1fr;gap:28px;padding:48px 0}.section-head{position:static}}
     @media(max-width:520px){h1{font-size:3.2rem}.masthead-row{align-items:flex-start;flex-direction:column}.hero{padding-top:42px}.lead p{font-size:1.18rem}}
     @media print{@page{size:A4;margin:16mm}body{background:#fff}.masthead,.topline,footer{print-color-adjust:exact;-webkit-print-color-adjust:exact}.hero{grid-template-columns:1fr}.hero-art{display:none}.contents{page-break-after:always}.report-section{display:block;padding:26px 0;break-before:page}.section-head{position:static;margin-bottom:25px}.sources{display:block}a{color:inherit}}
+
+    .site-nav{display:flex;gap:22px;font-size:.82rem;font-weight:700}.site-nav a{color:#fff;text-decoration:none}.site-nav a:hover{color:#23c4c4}
+    @media(max-width:520px){.site-nav{width:100%;justify-content:space-between;gap:12px}}
   </style>
 </head>
 <body>
   <div class="topline"></div>
-  <header class="masthead" id="top"><div class="masthead-row"><div class="brand">Energía · Operación · Regulación · <b>Política</b></div></div></header>
+  <header class="masthead" id="top"><div class="masthead-row"><div class="brand">Energía · Operación · Regulación · <b>Política</b></div><nav class="site-nav" aria-label="Navegación principal"><a href="/noticias-epec/">Inicio</a><a href="/noticias-epec/archivo/">Archivo</a><a href="/noticias-epec/buscar/">Buscar</a></nav></div></header>
   <section class="hero">
     <div>
       <p class="eyebrow">Edición semanal</p>
