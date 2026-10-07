@@ -1,0 +1,45 @@
+{
+  "actualizado": "2026-10-07",
+  "informes": [
+    {
+      "id": "2026-10-05",
+      "titulo": "Panorama Semanal EPEC",
+      "nombre_resultado": "Panorama Semanal EPEC — 28 sep al 4 oct 2026",
+      "fecha": "2026-10-05",
+      "fecha_legible": "5 de octubre de 2026",
+      "periodo_desde": "2026-09-28",
+      "periodo_hasta": "2026-10-04",
+      "periodo": "28 de septiembre al 4 de octubre de 2026",
+      "resumen": "Regulación nacional, operación y modernización de redes, sistema cooperativo, costos e indicadores de los Partes Post Operativos de CAMMESA.",
+      "temas": [
+        "CAMMESA",
+        "EPEC",
+        "cooperativas",
+        "combustibles",
+        "regulación",
+        "costos",
+        "geopolítica"
+      ],
+      "actores": [
+        "EPEC",
+        "CAMMESA",
+        "FECESCOR",
+        "FACE",
+        "ERSeP",
+        "Secretaría de Energía"
+      ],
+      "localidades": [
+        "Córdoba",
+        "Capilla del Monte",
+        "Alta Gracia",
+        "Saldán",
+        "James Craik",
+        "Ballesteros",
+        "Tancacha",
+        "Bell Ville"
+      ],
+      "url_ficha": "ediciones/2026/10/2026-10-05/ficha.html",
+      "url_web": "ediciones/2026/10/2026-10-05/"
+    }
+  ]
+}
