@@ -1,6 +1,82 @@
 {
-  "actualizado": "2026-10-07",
+  "actualizado": "2026-10-12",
   "informes": [
+    {
+      "id": "2026-10-12",
+      "titulo": "Panorama Semanal EPEC",
+      "nombre_resultado": "Panorama Semanal EPEC - 5 al 11 oct 2026",
+      "fecha": "2026-10-12",
+      "fecha_legible": "12 de octubre de 2026",
+      "periodo_desde": "2026-10-05",
+      "periodo_hasta": "2026-10-11",
+      "periodo": "5 al 11 de octubre de 2026",
+      "resumen": "Accesos solares EPEC por 9 MW, remuneración nacional de generación, novedades críticas CAMMESA, PAFTT cooperativo, Anisacate y costos energéticos.",
+      "temas": [
+        "CAMMESA",
+        "EPEC",
+        "CVP",
+        "CMO",
+        "combustibles",
+        "PAFTT",
+        "energía solar",
+        "cooperativas",
+        "geopolítica"
+      ],
+      "actores": [
+        "EPEC",
+        "CAMMESA",
+        "Secretaría de Energía",
+        "ENReGE",
+        "ERSeP",
+        "FECESCOR",
+        "FACE",
+        "FECOSI"
+      ],
+      "empresas": [
+        "EPEC",
+        "CAMMESA",
+        "Generar LR",
+        "YPF Energía Eléctrica"
+      ],
+      "cooperativas": [
+        "Alcira",
+        "Ausonia",
+        "Santa Catalina",
+        "El Fortín",
+        "Matorrales",
+        "La Para",
+        "Bengolea",
+        "San Marcos Sud",
+        "Tránsito",
+        "Alicia"
+      ],
+      "localidades": [
+        "Córdoba",
+        "San Francisco",
+        "San Francisco del Chañar",
+        "Anisacate",
+        "Alcira Gigena",
+        "Villa María",
+        "Villa Nueva",
+        "Bell Ville"
+      ],
+      "centrales": [
+        "PILATG12",
+        "PILATG11",
+        "RGDEHB",
+        "DFUNTG01",
+        "DFUNTG02"
+      ],
+      "resoluciones": [
+        "SE 273/2026",
+        "SE 274/2026",
+        "SE 275/2026",
+        "SE 281/2026",
+        "ENReGE 736/2026",
+        "ENReGE 756/2026"
+      ],
+      "url_web": "ediciones/2026/10/2026-10-12/"
+    },
     {
       "id": "2026-10-05",
       "titulo": "Panorama Semanal EPEC",
