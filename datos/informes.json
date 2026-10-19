@@ -1,6 +1,67 @@
 {
-  "actualizado": "2026-10-12",
+  "actualizado": "2026-10-19",
   "informes": [
+    {
+      "id": "2026-10-19",
+      "titulo": "Panorama Semanal EPEC",
+      "nombre_resultado": "Panorama Semanal EPEC - 12 al 18 oct 2026",
+      "fecha": "2026-10-19",
+      "fecha_legible": "19 de octubre de 2026",
+      "periodo_desde": "2026-10-12",
+      "periodo_hasta": "2026-10-18",
+      "periodo": "12 al 18 de octubre de 2026",
+      "resumen": "Menor generación en la ventana comparable, concentración de novedades críticas en Pilar, coordinación cooperativa, biocombustibles y presión del petróleo sobre costos.",
+      "temas": [
+        "CAMMESA",
+        "EPEC",
+        "CVP",
+        "CMO",
+        "combustibles",
+        "biocombustibles",
+        "cooperativas",
+        "generación",
+        "distribución",
+        "geopolítica"
+      ],
+      "actores": [
+        "EPEC",
+        "CAMMESA",
+        "Secretaría de Energía",
+        "ERSeP",
+        "FECESCOR",
+        "FACE",
+        "Gobierno de Córdoba"
+      ],
+      "empresas": [
+        "EPEC",
+        "CAMMESA"
+      ],
+      "cooperativas": [
+        "FECESCOR",
+        "FACE Córdoba"
+      ],
+      "localidades": [
+        "Córdoba",
+        "Villa Carlos Paz",
+        "Villa Allende",
+        "Pilar",
+        "Río Segundo",
+        "Villa María",
+        "General Cabrera",
+        "San Francisco"
+      ],
+      "centrales": [
+        "PILATG12",
+        "PILATG11",
+        "RGDEHB",
+        "DFUNTG01",
+        "DFUNTG02",
+        "LMO1",
+        "LMO2"
+      ],
+      "resoluciones": [],
+      "url_web": "ediciones/2026/10/2026-10-19/"
+    },
     {
       "id": "2026-10-12",
       "titulo": "Panorama Semanal EPEC",
