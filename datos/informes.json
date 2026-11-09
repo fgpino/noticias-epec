@@ -1,6 +1,77 @@
 {
-  "actualizado": "2026-10-19",
+  "actualizado": "2026-11-09",
   "informes": [
+    {
+      "id": "2026-11-09",
+      "titulo": "Panorama Semanal EPEC",
+      "nombre_resultado": "Panorama Semanal EPEC - 2 al 8 nov 2026",
+      "fecha": "2026-11-09",
+      "fecha_legible": "9 de noviembre de 2026",
+      "periodo_desde": "2026-11-02",
+      "periodo_hasta": "2026-11-08",
+      "periodo": "2 al 8 de noviembre de 2026",
+      "resumen": "Acceso solar de 6 MW, nuevos cargos de alumbrado vial, precios estacionales y subsidios de noviembre, inversiones cooperativas e indicadores EPEC–CAMMESA.",
+      "temas": [
+        "CAMMESA",
+        "EPEC",
+        "CVP",
+        "CMO",
+        "combustibles",
+        "energía solar",
+        "cooperativas",
+        "generación",
+        "distribución",
+        "tarifas",
+        "geopolítica",
+        "ciberseguridad"
+      ],
+      "actores": [
+        "EPEC",
+        "CAMMESA",
+        "Secretaría de Energía",
+        "ENReGE",
+        "ERSeP",
+        "FECESCOR",
+        "FACE",
+        "Gobierno de Córdoba",
+        "Vialidad Provincial"
+      ],
+      "empresas": [
+        "EPEC",
+        "CAMMESA"
+      ],
+      "cooperativas": [
+        "Cooperativa de Electricidad y Servicios Públicos de Berrotarán",
+        "Cooperativa de Electricidad, Obras y Servicios Públicos de Las Higueras",
+        "Cooperativa de Obras y Servicios Públicos de Brinkmann",
+        "FECESCOR",
+        "FACE Córdoba"
+      ],
+      "localidades": [
+        "Córdoba",
+        "San Francisco del Chañar",
+        "Villa María de Río Seco",
+        "Berrotarán",
+        "Las Higueras",
+        "Brinkmann",
+        "Colonia Vignaud",
+        "Deán Funes"
+      ],
+      "centrales": [
+        "PILATG12",
+        "PILATG11",
+        "VMARTG01",
+        "RGDEHB",
+        "LEVATG02",
+        "Molinos 1"
+      ],
+      "resoluciones": [
+        "SE 304/2026",
+        "SE 305/2026",
+        "ERSeP Resolución General 143"
+      ],
+      "url_web": "ediciones/2026/11/2026-11-09/"
+    },
     {
       "id": "2026-10-19",
       "titulo": "Panorama Semanal EPEC",
